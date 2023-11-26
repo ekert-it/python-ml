@@ -2,3 +2,6 @@
 05. Weiterführend und experimentell/cifar_net.pth
 .ipynb_checkpoints/
 .idea/
+img/viz
+img/viz.png
+model_plot.png
