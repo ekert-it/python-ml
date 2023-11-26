@@ -1,0 +1,14 @@
+ipywidgets
+matplotlib
+numpy
+pandas
+pytorch
+torchvision
+tqdm
+keras
+tensorflow
+pydot
+graphviz
+visualkeras
+seaborn
+jupyter
