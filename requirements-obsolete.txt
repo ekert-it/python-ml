@@ -6,10 +6,9 @@ pytorch
 torchvision
 tqdm
 keras
-pillow<=9.5.0
-tensorflow<=2.12.1
+tensorflow
 pydot
 graphviz
+keras-visualizer
 visualkeras
 seaborn
-jupyter
