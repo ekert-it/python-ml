@@ -4,7 +4,7 @@
     "cpus": 4
   },
   "waitFor": "onCreateCommand",
-  "updateContentCommand": "python3 -m pip install -r requirements.txt; sudo apt update; sudo apt upgrade -y; sudo apt install graphviz -y",
+  "updateContentCommand": "python3 -m pip install -r requirements.txt;  python3 -m pip install tensorflow; sudo apt update; sudo apt upgrade -y; sudo apt install graphviz -y",
   "postCreateCommand": "",
   "customizations": {
     "codespaces": {
