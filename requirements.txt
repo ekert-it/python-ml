@@ -4,7 +4,7 @@ numpy
 pandas
 tqdm
 keras
-pillow
+pillow<=9.5.0
 tensorflow
 pydot
 graphviz
