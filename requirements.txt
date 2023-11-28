@@ -2,12 +2,10 @@ ipywidgets
 matplotlib
 numpy
 pandas
-pytorch
-torchvision
 tqdm
 keras
 pillow<=9.5.0
-tensorflow<=2.12.1
+tensorflow
 pydot
 graphviz
 visualkeras
