@@ -11,3 +11,5 @@ graphviz
 visualkeras
 seaborn
 jupyter
+scikit-learn
+xgboost
